@@ -1,0 +1,4 @@
+chainlit
+langchain
+numpy
+GPT4AllEmbeddings
