@@ -5,8 +5,6 @@ from langchain_community.embeddings import GPT4AllEmbeddings
 embeddings = GPT4AllEmbeddings()
 
 # Function to vectorize data
-
-
 def vectorize_data(data):
     vectorized_data = []
     for entry in data['data']:

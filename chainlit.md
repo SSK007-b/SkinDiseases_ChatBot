@@ -1,14 +1,23 @@
-# Welcome to Chainlit! 🚀🤖
+# Derma Care English ChatBot
 
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+## Overview
 
-## Useful Links 🔗
+Derma Care offers personalized skin care solutions, including consultations, treatment plans, and high-quality products.
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
+## Services
 
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
+- Skin Consultation: Personalized assessments and expert advice.
+- Treatment Plans: Customized solutions for various skin conditions.
+- Product Line: Quality skincare products for cleansing and protection.
+- Follow-up Care: Ongoing support and adjustments to treatment plans.
 
-## Welcome screen
+## Why Choose Derma Care?
 
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+- Expertise: Skilled dermatologists and specialists.
+- Customization: Personalized solutions for unique skin needs.
+- Quality: Premium products for effective results.
+- Comprehensive Approach: Holistic care from start to finish.
+
+
+Achieve healthier skin with Derma Care!
+

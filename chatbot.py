@@ -9,7 +9,6 @@ dotenv.load_dotenv()
 data = load_json_data("data.json")
 vectorized_data = vectorize_data(data)
 
-
 @cl.on_message
 async def chatbot_ui(message):
     user_input = message.content

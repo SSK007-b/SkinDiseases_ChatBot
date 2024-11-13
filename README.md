@@ -1,1 +1,0 @@
-# DermaCare_English
